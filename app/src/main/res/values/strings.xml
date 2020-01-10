@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Workshop Intents</string>
+
+    <string name="msg">Enter your message here</string>
+    <string name="btnSend">Send</string>
+    <string name="btnReply">Reply</string>
+    <string name="msgReceived">Message Received</string>
+    <string name="repReceived">Reply Received</string>
+
+
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Golden Gate Bridge</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">\'Twas brillig and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+    <string name="share_text_with">Android DevCamp</string>
+</resources>
