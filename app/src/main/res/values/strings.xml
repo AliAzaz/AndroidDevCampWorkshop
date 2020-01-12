@@ -17,4 +17,5 @@
     <string name="edittext_share">\'Twas brillig and the slithy toves</string>
     <string name="button_share">Share This Text</string>
     <string name="share_text_with">Android DevCamp</string>
+    <string name="log">See Log</string>
 </resources>

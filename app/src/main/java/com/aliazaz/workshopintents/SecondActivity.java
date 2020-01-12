@@ -2,6 +2,7 @@ package com.aliazaz.workshopintents;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -14,6 +15,7 @@ import static com.aliazaz.workshopintents.Constants.SEND_MESSAGE;
 
 public class SecondActivity extends AppCompatActivity {
 
+    private static final String TAG = SecondActivity.class.getName();
     TextView labelMRecv, msgRecv;
     private Button btnReply;
     private EditText txtMessage;
@@ -47,5 +49,10 @@ public class SecondActivity extends AppCompatActivity {
                 finish();
             }
         });
+    }
+
+    @Override
+    public void onBackPressed() {
+        Log.d(TAG, "onBackPressed: Stopped backpressed intentionally");
     }
 }

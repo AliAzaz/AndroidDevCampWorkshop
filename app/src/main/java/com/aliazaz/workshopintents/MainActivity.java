@@ -37,6 +37,9 @@ public class MainActivity extends AppCompatActivity {
                     case 1:
                         startActivity(new Intent(MainActivity.this, ImplicitActivity.class));
                         break;
+                    case 2:
+                        startActivity(new Intent(MainActivity.this, LifeCycleActivity.class));
+                        break;
                 }
             }
         });
@@ -44,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void settingValue() {
         lstMenu.setAdapter(new ArrayAdapter<>(this, android.R.layout.simple_list_item_1,
-                Arrays.asList("Explicit Intent", "Implicit Intent")));
+                Arrays.asList("Explicit Intent", "Implicit Intent", "Activity LifeCycle")));
     }
 
     private void initialize() {
