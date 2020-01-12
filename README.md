@@ -34,6 +34,21 @@ In this lesson you'll learn
 
 ## OUTPUT
 
+<img alt="Pic-1" src="https://github.com/AliAzaz/AndroidDevCampWorkshop/blob/master/pics/pic01.png" width="200"/>
+
+#### Task 1 - Explicit Intent:
+
+<img alt="Pic-1" src="https://github.com/AliAzaz/AndroidDevCampWorkshop/blob/master/pics/Task1_pic01.png" width="200"/> <img alt="Pic-2" src="https://github.com/AliAzaz/AndroidDevCampWorkshop/blob/master/pics/Task1_pic02.png" width="200"/> <img alt="Pic-3" src="https://github.com/AliAzaz/AndroidDevCampWorkshop/blob/master/pics/Task1_pic03.png" width="200"/>
+
+#### Task 2 - Implicit Intent:
+
+<img alt="Pic-1" src="https://github.com/AliAzaz/AndroidDevCampWorkshop/blob/master/pics/Task2_pic01.png" width="200"/>
+
+
+#### Task 3 - Activity LifeCycle:
+
+<img alt="Pic-1" src="https://github.com/AliAzaz/AndroidDevCampWorkshop/blob/master/pics/Task3_pic01.png" width="200"/>
+
 
 ## CONNECT
 
